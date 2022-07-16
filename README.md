@@ -3,9 +3,9 @@
 
 ## I'm a Husband, Father and Software Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I am open to job opportunities
-- ⚡ Fun fact: I like music, I can't resist trying to dance but I'm a terrible dancer
+- 🌱 I’m currently learning everything 🏋️‍♀️
+- 👨‍💼 I am open to job opportunities
+- ⚡ Fun fact: I like music, I can't resist trying to dance but I'm a terrible dancer 🤣
 
 
 ### Connect with me:
