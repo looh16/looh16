@@ -25,9 +25,10 @@
 ### Connect with me:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <a href="https://www.linkedin.com/in/custodio-serafim-2a318a23a">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
 </p>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</p>       
+      
 
 
