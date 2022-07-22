@@ -23,11 +23,13 @@
 </p>
 
 ### Connect with me:
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<p align="left">
   <a href="https://www.linkedin.com/in/custodio-serafim-2a318a23a">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
+   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+   <a href="https://twitter.com/custodiolanga1">
+   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+  </a>
 </p>
       
 
