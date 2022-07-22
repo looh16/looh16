@@ -26,7 +26,7 @@
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people around the world and I will be happy to connect with you:</b>😊</em>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/custodio-serafim-2a318a23a">
    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
